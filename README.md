@@ -41,8 +41,8 @@ AI모델에 대입된 실시간 이미지에서 객체가 만일 반입 금지 �
 <br/>
 
 # 4. Tasks & Responsibilities (작업 및 역할 분담)
-|  |  |  |
-|-----------------|-----------------|-----------------|
+|  |  |
+|-----------------|-----------------|
 | 박슬기   |  <ul><li>팀원</li><li>AI 모델 생성</li><li>라즈베리파이/EC2 서버 간 통신 구현</li></ul>  |
 | 유재윤   |  <ul><li>팀장</li><li>프로젝트 관리</li><li>터틀봇 주행 및 회피 동작 구현</li></ul>  |
 | 정지수   |  <ul><li>팀원</li><li>모바일 애플리케이션 프로토 타입 제작</li><li>프론트엔드 개발</li></ul>  |
@@ -62,15 +62,15 @@ AI모델에 대입된 실시간 이미지에서 객체가 만일 반입 금지 �
 <br/>
 
 ## 5.2 Frotend
-|  |  |  |
-|-----------------|-----------------|-----------------|
+|  |  
+|-----------------|-----------------|
 | Flutter    |  <img src="https://github.com/user-attachments/assets/a38f52b8-9f7f-4e21-9ea4-6ade3480a2fb" alt="Flutter" width="100"> |
 
 <br/>
 
 ## 5.3 Backend
-|  |  |  |
-|-----------------|-----------------|-----------------|
+|  |  | 
+|-----------------|-----------------|
 | Spring Boot    |  <img src="https://github.com/user-attachments/assets/1694e458-9bb0-4a0b-8fe6-8efc6e675fa1" alt="Spring Boot" width="100">    |
 | AWS EC2    |  <img src="https://github.com/user-attachments/assets/4a0d4ab8-56d9-4082-934c-18b992986aa4" alt="AWS EC2" width="100">    |
 | AWS RDS    |  <img src="https://github.com/user-attachments/assets/840f2daf-da29-430c-85c5-e97e56a7750a" alt="AWS RDS" width="100">    |
@@ -80,8 +80,8 @@ AI모델에 대입된 실시간 이미지에서 객체가 만일 반입 금지 �
 <br/>
 
 ## 5.3 ROBOT
-|  |  |  |
-|-----------------|-----------------|-----------------|
+|  |  | 
+|-----------------|-----------------|
 | Ubuntu 20.04    |  <img src="https://github.com/user-attachments/assets/44b7e0b3-bd82-4de4-ac85-8e9b8c5c0b82" alt="Ubuntu" width="100">    |
 | ROS2 Foxy    |  <img src="https://github.com/user-attachments/assets/8d65977c-5f4e-4725-b723-452c201fd71e" alt="ROS2 Foxy" width="100">    |
 | Raspberry Pi    |  <img src="https://github.com/user-attachments/assets/c6c1d23f-65ae-4f74-a6db-052a9fcbe8aa" alt="Raspberry Pi" width="100">    |
@@ -89,7 +89,7 @@ AI모델에 대입된 실시간 이미지에서 객체가 만일 반입 금지 �
 <br/>
 
 ## 5.4 Cooperation
-|  |  |
+|  |  
 |-----------------|-----------------|
 | Notion    |  <img src="https://github.com/user-attachments/assets/5ff6c722-394b-4dd4-9c2f-1f1ef30981d2" alt="Notion" width="100">    |
 
