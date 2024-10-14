@@ -3,6 +3,8 @@
 본 과제는 본교 중앙도서관 내 반입 금지물품인 음료수 반입 문제를 해결하기 위해 상주 직원의 순찰 필요성에 초점을 맞추었습니다.<br> 본 과제를 통해 인력을 효율적으로 분배할 수 있는 방법으로 자율주행 로봇의 활용 방안을 제안하고 AI 객체 인식 기술을 활용해서 반입 금지 물품을 인식함과 동시에 모바일 애플리케이션 상으로 반입 금지 물품의 존재 여부를 확인합니다. 
 </div>
 
+<br/>
+
 # 1. Project Overview (프로젝트 개요)
 - 프로젝트 이름: 객체 인식 및 자율주행 로봇 활용 개발
   
@@ -19,7 +21,14 @@
 <br/>
 <br/>
 
-# 2. Team Members (팀원 및 팀 소개)
+# 2. System Structure (시스템 구조)
+
+![제목 없는 다이어그램](https://github.com/user-attachments/assets/d8a3afa1-7a39-48a4-abcc-05fc7f14d30c)
+
+<br/>
+<br/>
+
+# 3. Team Members (팀원 및 팀 소개)
 | 박슬기 | 유재윤 | 정지수 | 홍정원 |
 |:------:|:------:|:------:|:------:|
 | AI, ROBOT | ROBOT | FE | BE, ROBOT |
@@ -28,7 +37,7 @@
 <br/>
 <br/>
 
-# 3. Project Result (프로젝트 결과)
+# 4. Project Result (프로젝트 결과)
 - **AI**:
   - 학습을 통하여 캔, 테이크아웃잔, 유리병, 플라스틱병, 녹차, 보리차 총 6개의 클래스에 대하여 객체 인식을 진행한다. 학습된 모델을 적용하여 Raspberry Pi 카메라를 통해 얻어온 이미지 내의 객체를 인식한다.
   - MQTT 통신으로 Raspberry Pi와 EC2 사이의 Publish, Subscribe 코드를 통해 인식된 클래스의 이름과 위치를 전송하여 실시간으로 DB에 해당 정보들을 저장한다.
@@ -44,7 +53,7 @@
 <br/>
 <br/>
 
-# 4. Tasks & Responsibilities (작업 및 역할 분담)
+# 5. Tasks & Responsibilities (작업 및 역할 분담)
 |  |  |
 |-----------------|-----------------|
 | 박슬기   |  <ul><li>팀원</li><li>AI 모델 생성</li><li>라즈베리파이/EC2 서버 간 통신 구현</li></ul>  |
@@ -55,8 +64,8 @@
 <br/>
 <br/>
 
-# 5. Technology Stack (기술 스택)
-## 5.1 Language
+# 6. Technology Stack (기술 스택)
+## 6.1 Language
 |  |  |
 |-----------------|-----------------|
 | Python    |<img src="https://github.com/user-attachments/assets/173e8dc6-9843-47a4-94c7-72e953e69e15" alt="Python" width="100">| 
@@ -65,14 +74,14 @@
 
 <br/>
 
-## 5.2 Frotend
+## 6.2 Frotend
 |  |  |
 |-----------------|-----------------|
 | Flutter    |  <img src="https://github.com/user-attachments/assets/a38f52b8-9f7f-4e21-9ea4-6ade3480a2fb" alt="Flutter" width="100"> |
 
 <br/>
 
-## 5.3 Backend
+## 6.3 Backend
 |  |  | 
 |-----------------|-----------------|
 | Spring Boot    |  <img src="https://github.com/user-attachments/assets/bf62c737-4482-4b17-8fe3-6278093e51fc" alt="Spring Boot" width="100">    |
@@ -83,7 +92,7 @@
 
 <br/>
 
-## 5.3 ROBOT
+## 6.3 ROBOT
 |  |  | 
 |-----------------|-----------------|
 | Ubuntu 20.04    |  <img src="https://github.com/user-attachments/assets/44b7e0b3-bd82-4de4-ac85-8e9b8c5c0b82" alt="Ubuntu" width="100">    |
@@ -92,16 +101,11 @@
 
 <br/>
 
-## 5.4 Cooperation
+## 6.4 Cooperation
 |  |  |
 |-----------------|-----------------|
 | Notion    |  <img src="https://github.com/user-attachments/assets/5ff6c722-394b-4dd4-9c2f-1f1ef30981d2" alt="Notion" width="100">    |
 
 <br/>
 
-# 6. System Structure (시스템 구조)
 
-![제목 없는 다이어그램](https://github.com/user-attachments/assets/d8a3afa1-7a39-48a4-abcc-05fc7f14d30c)
-
-<br/>
-<br/>
