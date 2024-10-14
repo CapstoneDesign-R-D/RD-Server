@@ -11,6 +11,7 @@
 AI모델에 대입된 실시간 이미지에서 객체가 만일 반입 금지 물품일 경우 모바일 애플리케이션 상으로 토픽을 전송하고 토픽을 받은 애플리케이션 상에서는 화면상에 알림을 띄운다. 
 본 프로젝트를 수행하는 데 있어 모바일 애플리케이션은 로봇을 통해 인식된 반입 금지 물품의 위치와 제거 여부를 수시로 파악하는 데 필수적이다. 
 따라서 애플리케이션은 서버에 실시간으로 저장되는 반입 금지 물품 정보를 푸시 알림을 통해 근로 학생에게 전달하고, 누적된반입 금지 물품 인식 기록을 물품 제거 여부에 따라 관리할 수 있도록 하는 것을 목표로 한다.
+- “터틀봇을 활용한 도서관 내 금지 물품 식별 시스템: 동국대학교 도서관 사례 연구” 논문으로 대한전자공학회 2024년도 하계종합학술대회 참여
 
 <br/>
 <br/>
@@ -71,7 +72,7 @@ AI모델에 대입된 실시간 이미지에서 객체가 만일 반입 금지 �
 ## 5.3 Backend
 |  |  | 
 |-----------------|-----------------|
-| Spring Boot    |  <img src="https://github.com/user-attachments/assets/1694e458-9bb0-4a0b-8fe6-8efc6e675fa1" alt="Spring Boot" width="100">    |
+| Spring Boot    |  <img src="https://github.com/user-attachments/assets/bf62c737-4482-4b17-8fe3-6278093e51fc" alt="Spring Boot" width="100">    |
 | AWS EC2    |  <img src="https://github.com/user-attachments/assets/4a0d4ab8-56d9-4082-934c-18b992986aa4" alt="AWS EC2" width="100">    |
 | AWS RDS    |  <img src="https://github.com/user-attachments/assets/840f2daf-da29-430c-85c5-e97e56a7750a" alt="AWS RDS" width="100">    |
 | MySQL    |  <img src="https://github.com/user-attachments/assets/5744e2f7-a7a4-44be-8115-0e356a6dc57c" alt="MySQL" width="100">    |
@@ -93,4 +94,11 @@ AI모델에 대입된 실시간 이미지에서 객체가 만일 반입 금지 �
 |-----------------|-----------------|
 | Notion    |  <img src="https://github.com/user-attachments/assets/5ff6c722-394b-4dd4-9c2f-1f1ef30981d2" alt="Notion" width="100">    |
 
+<br/>
+
+# 6. System Structure (시스템 구조)
+
+![제목 없는 다이어그램](https://github.com/user-attachments/assets/d8a3afa1-7a39-48a4-abcc-05fc7f14d30c)
+
+<br/>
 <br/>
