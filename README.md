@@ -62,7 +62,7 @@ AI모델에 대입된 실시간 이미지에서 객체가 만일 반입 금지 �
 <br/>
 
 ## 5.2 Frotend
-|  |  
+|  |  |
 |-----------------|-----------------|
 | Flutter    |  <img src="https://github.com/user-attachments/assets/a38f52b8-9f7f-4e21-9ea4-6ade3480a2fb" alt="Flutter" width="100"> |
 
@@ -89,7 +89,7 @@ AI모델에 대입된 실시간 이미지에서 객체가 만일 반입 금지 �
 <br/>
 
 ## 5.4 Cooperation
-|  |  
+|  |  |
 |-----------------|-----------------|
 | Notion    |  <img src="https://github.com/user-attachments/assets/5ff6c722-394b-4dd4-9c2f-1f1ef30981d2" alt="Notion" width="100">    |
 
