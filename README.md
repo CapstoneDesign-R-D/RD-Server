@@ -94,7 +94,7 @@
 
 <br/>
 
-## 6.3 ROBOT
+## 6.4 ROBOT
 |  |  | 
 |-----------------|-----------------|
 | Ubuntu 20.04    |  <img src="https://github.com/user-attachments/assets/44b7e0b3-bd82-4de4-ac85-8e9b8c5c0b82" alt="Ubuntu" width="100">    |
@@ -103,7 +103,7 @@
 
 <br/>
 
-## 6.4 Cooperation
+## 6.5 Cooperation
 |  |  |
 |-----------------|-----------------|
 | Notion    |  <img src="https://github.com/user-attachments/assets/5ff6c722-394b-4dd4-9c2f-1f1ef30981d2" alt="Notion" width="100">    |
